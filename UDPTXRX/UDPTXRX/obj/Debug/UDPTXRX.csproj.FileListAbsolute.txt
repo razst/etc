@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\bin\Debug\UDPTXRX.exe.config
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\bin\Debug\UDPTXRX.exe
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\bin\Debug\UDPTXRX.pdb
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\MainWindow.g.cs
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX_MarkupCompile.cache
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX_MarkupCompile.lref
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\MainWindow.baml
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.g.resources
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.Properties.Resources.resources
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.exe
+C:\Users\pc\source\repos\UDPTXRX\UDPTXRX\obj\Debug\UDPTXRX.pdb
